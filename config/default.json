@@ -1,5 +1,5 @@
 {
   "port": 5000,
-  "mongoUri": "mongodb+srv://eldar:MIUMuSaxc8xd6cqL@cluster0.zxgfi.azure.mongodb.net/app?retryWrites=true&w=majority"
+  "mongoUri": "mongodb+srv://eldar:MIUMuSaxc8xd6cqL@cluster0.zxgfi.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "eldar myrzabekov secret227"
 }
-
