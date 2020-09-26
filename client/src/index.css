@@ -29,10 +29,18 @@ input.yellow-input + label {
 }
 
 input.yellow-input:focus {
-  border-bottom: 1px solid #f9a825  !important;
-  box-shadow: 0 1px 0 0 #f9a825  !important;
+  border-bottom: 1px solid #f9a825 !important;
+  box-shadow: 0 1px 0 0 #f9a825 !important;
 }
 
 input.yellow-input:focus + label {
-  color: #f9a825  !important;
+  color: #f9a825 !important;
+}
+
+.overflow-dots {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  max-width: 330px;
+  height: 1.2em;
+  white-space: nowrap;
 }
