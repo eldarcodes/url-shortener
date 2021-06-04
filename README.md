@@ -9,7 +9,7 @@ git clone https://github.com/mirzabekov00/url-shortener.git
 ## Server setup
 
 ```
-cd server/
+cd url-shortener/server/
 
 yarn
 
@@ -19,7 +19,7 @@ yarn dev
 ## Web setup
 
 ```
-cd client/
+cd url-shortener/client/
 
 yarn
 
